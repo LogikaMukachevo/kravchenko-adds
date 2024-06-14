@@ -1,0 +1,123 @@
+body {
+    font-family: sans-serif;
+    background-color:#312528;
+}
+
+h1{
+color:#f6d6e9;
+text-align: center;
+background-color:#683142;
+border-radius:10px;
+}
+h2{
+    color:#f6d6e9;
+    text-align: center;
+    background-color:#683142;
+border-radius:30px;
+}
+p{
+   color:#f6d6e9;
+}
+ol{
+    color:#f6d6e9;
+}
+a{
+    color:#9137BB;
+    text-decoration: none;
+    border-radius: 10px;
+   background-color: black;
+    padding:10px;
+    font-size:20px;
+}
+a:hover{
+    background-image:linear-gradient(#683142,#f6d6e9,#312528);
+    transition:3s background-image linear;
+}
+header img{
+    border-radius:80px;
+    size:40px;
+}
+footer div{
+    display: flex;
+justify-content: flex-end;
+}
+div p{
+flex:1;
+}
+.g::after{
+  display: inline-block;
+content:'';
+background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Ads_logo.svg/1200px-Google_Ads_logo.svg.png") no-repeat center center;
+background-size: contain;
+width: 20px; 
+height: 20px; 
+margin-left: 10px;}
+.b::after{
+  display: inline-block;
+content:'';
+background: url("https://assets-global.website-files.com/5f8b0a1abe69652278dad51c/635fe404ff16bab686a6acb1_d052240c.png") no-repeat center center;
+background-size: contain;
+width: 20px; 
+height: 20px; 
+margin-left: 10px;}
+.f::after{  
+display: inline-block;
+content:'';
+background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXN9xSEe8unzPBEQOeAKXd9Q55efGHGB9BA&s") no-repeat center center;
+background-size: contain;
+width: 20px; 
+height: 20px; 
+margin-left: 10px;
+}
+.a::after{
+  display: inline-block;
+content:'';
+background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Amazon_icon.svg/2500px-Amazon_icon.svg.png") no-repeat center center;
+background-size: contain;
+width: 20px; 
+height: 20px; 
+margin-left: 10px;}
+.i::after{
+  display: inline-block;
+content:'';
+background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png") no-repeat center center;
+background-size: contain;
+width: 20px; 
+height: 20px; 
+margin-left: 10px;}
+.y::after{
+  display: inline-block;
+content:'';
+background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4Wk4Pc-o8UNZjvoVH0UpMr_eRFGMwX8LJA&s") no-repeat center center;
+background-size: contain;
+width: 20px; 
+height: 20px; 
+margin-left: 10px;}
+.l::after{
+  display: inline-block;
+content:'';
+background: url("https://t4.ftcdn.net/jpg/03/96/56/19/360_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg") no-repeat center center;
+background-size: contain;
+width: 20px; 
+height: 20px; 
+margin-left: 10px;
+}
+.p::after{
+  display: inline-block;
+content:'';
+background: url("https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png") no-repeat center center;
+background-size: contain;
+width: 20px; 
+height: 20px; 
+margin-left: 10px;}
+header div{
+    display: flex;
+    justify-content: flex-end;
+}
+span{
+    background-color:#9137BB;
+    color:#f6d6e9 ;
+}
+footer img{
+  padding:10px;
+}
